@@ -1,1 +1,8 @@
-{}
+{
+  "packageRules": [
+    {
+      "matchPackageNames": ["org.springframework.boot:org.springframework.boot.gradle.plugin"],
+      "allowedVersions": ["[,3.4.0)"]
+    }
+  ]
+}
